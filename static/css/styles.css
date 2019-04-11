@@ -73,7 +73,7 @@ body {
 }
 .omega {
     position: absolute;
-    top: 7%;
+    top: 10px;
     left: 5px;
 }
 .omega img {
