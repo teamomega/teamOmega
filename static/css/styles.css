@@ -8,6 +8,7 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 10px;
+    position: relative;
 }
 .flex-container {
     margin-top: -10px;
@@ -73,7 +74,7 @@ body {
 .omega {
     position: absolute;
     top: 7%;
-    left: 10%;
+    left: 5px;
 }
 .omega img {
     width: 120px;
