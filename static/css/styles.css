@@ -72,14 +72,14 @@ body {
 }
 .omega {
     position: absolute;
-    top: 10%;
-    left: 20%;
+    top: 7%;
+    left: 10%;
 }
 .omega img {
     width: 120px;
     height: 120px;
     transform: rotate(-37deg);
-    filter: opacity(0.35);
+    filter: opacity(0.15);
 }
 
 .montserrat {
